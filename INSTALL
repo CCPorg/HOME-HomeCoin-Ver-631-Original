@@ -1,0 +1,9 @@
+Building HomeCoin
+
+See doc/readme-qt.rst for instructions on building HomeCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HomeCoin.
+
+See doc/build-*.txt for instructions on building HomeCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HomeCoin.
